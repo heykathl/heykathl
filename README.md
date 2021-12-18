@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heykathl but people usually call me Kathleen
-- 👀 I’m interested in knitting, games and kdramas.
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on projects?
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Ruby and Javascript
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
